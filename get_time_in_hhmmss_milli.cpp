@@ -25,6 +25,6 @@ std::string time_in_HH_MM_SS_milli() {
 }
 
 int main(){
-	// get present time now
+	// get present time now and print it
 	std::cout << time_in_HH_MM_SS_milli() << std::endl;
 }
